@@ -113,22 +113,6 @@ To set up this project locally, follow these steps:
    - View all appointments and reports.
    - Approve or reject appointment requests.
 
-## Screenshots
-
-Here are some screenshots of the Health Wave application:
-
-- **Patient Dashboard**
-
-  _Add a screenshot link or image here_
-
-- **Doctor Dashboard**
-
-  _Add a screenshot link or image here_
-
-- **Admin Dashboard**
-
-  _Add a screenshot link or image here_
-
 ## Contributing
 
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
